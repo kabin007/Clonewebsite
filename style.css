@@ -1,0 +1,77 @@
+*{
+    background-color: #000000;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    font-family: Poppins;
+}
+
+h2{
+    color: white;
+    font-size: 50px;
+}
+.sep{
+    color: #5e5e5e;
+}
+.product-left{
+    width: 45%;
+}
+.bloc-header{
+    margin: 80px 50px 50px 200px;
+}
+.product-right{
+    translate: none;
+    rotate: none;
+    scale: none;
+    will-change: auto;
+}
+.aime-image{
+    margin-left: 700px;
+    margin-top: -350px;
+
+}
+.products{
+    margin-left: 50px;
+}
+.title{
+    color: white;
+    text-decoration: none;
+    margin-left: 300px;
+    margin-top: -45px;
+   
+    
+ 
+}
+.hg-image{
+    margin-left: 300px;
+    width: 5px;
+    height: 500px;
+}
+ img{
+    height:400px;
+    margin-top: 50px;
+}
+.ene-image{
+    margin-left: 300px;
+    height: 100%;
+    display: flex;
+
+}
+.ama-image{
+    margin-left: 650px;
+    margin-top: -200px;
+    
+}
+.amatis-image{
+    width: 50%px;
+    
+}
+.bloc-header .h2{
+    color: rgb(110, 103, 103); 
+    font-size: 50px ;
+     font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
